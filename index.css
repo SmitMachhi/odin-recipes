@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(36, 36, 36);
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+html {
+    background-color: antiquewhite;
+}
+
+ul {
+    background-color: rgb(245, 245, 197);
+    font-size: 22px;
+    font-weight: 600;
+    text-underline-position: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
